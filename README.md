@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Baraka
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Baraka
 =====================================================================================================================================
 
 Web Developer and Designer
@@ -22,7 +22,7 @@ if you have any questions or want to discuss ideas related to the fascinating wo
 -[LinkedIn\](https://www.linkedin.com/in/samuel-baraka-703b92226/)
 
 *   🌍  I'm based in Kilifi-Kenya
-*   ✉️  You can contact me at [samkbaraka@gmail.com](mailto:samkbaraka@gmail.com)
+*   ✉️  You can contact me at [samkbaraka@gmail.com]
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on App Based Projects, System Management Projects,
 *   ⚡  Let's embark on this coding journey together!
