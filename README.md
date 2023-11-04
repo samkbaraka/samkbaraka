@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Baraka
 =====================================================================================================================================
 
-Web Developer and Designe
+Web Developer and Designer
 -------------------------
 
 I'm Samuel Baraka, a passionate software programmer with expertise in a variety of programming languages and technologies. ## About Me - Name: Samuel Baraka - Proficiency: Python, Dart, Flutter, HTML, CSS - Interests: Robotics, Cybersecurity, Nano Biotech, and the Future ## What I Do I am dedicated to the world of web development and programming, with a particular focus on creating efficient and innovative solutions using the languages and tools I'm proficient in. ## What You'll Find Here In this repository, you can expect to find a collection of my projects, code samples, and contributions related to my programming interests. Whether it's Python scripts, web development projects, or other exciting endeavors, you'll find a diverse range of content that reflects my passion for programming and innovation. Feel free to explore, collaborate, and reach out if you have any questions or want to discuss ideas related to the fascinating worlds of software development, robotics, cybersecurity, nano biotech, or the exciting possibilities the future holds. Connect with me: - \[GitHub\](https://github.com/samkbaraka) - \[LinkedIn\](https://www.linkedin.com/in/samuel-baraka-703b92226/)
